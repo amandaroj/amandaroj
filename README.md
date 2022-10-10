@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Amanda<br>A passionate Frontend Developer<br><br>🔭 I’m currently working on: Javascript challenges/projects<br>🌱 I’m currently learning: React<br>📫 How to reach me: rojteramanda@gmail.com
+🔭 I’m currently working on: Javascript challenges/projects<br>🌱 I’m currently learning: React<br>📫 How to reach me: rojteramanda@gmail.com
 
 
 ## 🌐 Socials:
