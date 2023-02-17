@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [amanda-roj.com](amanda-roj.com)
-
 - 💬 Ask me about **collaborating on projects**
 
 - 📫 How to reach me **rojteramanda@gmail.com**
