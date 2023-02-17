@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Amanda🐱</h3>
-<h4 align="center">A passionate frontend developer💻</h4>
+<h4 align="center">A passionate fullstack developer💻</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandaroj&label=Visitors&color=88b8eb&style=flat" alt="amandaroj" /> </p>
 
