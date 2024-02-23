@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amanda</h1>
-<h3 align="center">An Aspiring Business/Data Analyst</h3>
 
 - 🌱 I’m currently learning **Python, Pandas**
 
-- 👨‍💻 All of my projects are available at [https://www.amanda-roj.com/](https://www.amanda-roj.com/)
-
-- 📫 How to reach me **arojter2021@fau.edu**
+- 📫 How to reach me **rojteramanda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
