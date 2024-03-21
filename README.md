@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amanda</h1>
+<h1 align="center">Amanda</h1>
+<h2 align="center">Revenue Analyst</h2>
 
 - 🌱 I’m currently learning **Python, Pandas**
 
